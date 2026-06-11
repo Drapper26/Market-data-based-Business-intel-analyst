@@ -1,0 +1,501 @@
+search_id,buyer_id,search_query,item_category,search_date
+1,52,bike,Furniture,2026-04-22
+2,24,bike,Sports,2026-03-28
+3,48,white socks,Household Goods,2026-05-08
+4,94,table,Clothing,2026-01-22
+5,78,sofa,Books,2026-04-21
+6,42,laptop,Clothing,2026-03-17
+7,85,phone,Household Goods,2026-03-25
+8,78,table,Electronics,2026-04-25
+9,57,jacket,Furniture,2026-06-26
+10,94,jacket,Books,2026-01-11
+11,36,shoes,Clothing,2026-04-22
+12,82,table,Household Goods,2026-06-21
+13,96,sofa,Clothing,2026-05-12
+14,78,bike,Clothing,2026-02-06
+15,9,book,Sports,2026-02-02
+16,47,table,Books,2026-04-04
+17,78,sofa,Sports,2026-01-09
+18,48,jacket,Furniture,2026-04-26
+19,74,sofa,Books,2026-01-20
+20,51,jacket,Sports,2026-04-04
+21,32,laptop,Clothing,2026-03-13
+22,64,white socks,Furniture,2026-02-17
+23,16,phone,Household Goods,2026-05-24
+24,58,book,Books,2026-06-30
+25,89,bike,Electronics,2026-03-15
+26,18,laptop,Furniture,2026-02-01
+27,92,bike,Clothing,2026-02-14
+28,41,jacket,Sports,2026-06-24
+29,71,white socks,Household Goods,2026-01-17
+30,21,sofa,Household Goods,2026-03-18
+31,29,laptop,Electronics,2026-05-11
+32,31,bike,Clothing,2026-02-05
+33,71,gaming laptop,Household Goods,2026-04-03
+34,71,sofa,Books,2026-04-30
+35,9,phone,Furniture,2026-01-23
+36,68,table,Furniture,2026-05-03
+37,10,sofa,Household Goods,2026-05-28
+38,10,bike,Furniture,2026-06-14
+39,67,jacket,Electronics,2026-06-24
+40,82,gaming laptop,Electronics,2026-05-22
+41,56,white socks,Clothing,2026-02-03
+42,67,sofa,Household Goods,2026-02-01
+43,21,jacket,Sports,2026-02-12
+44,45,white socks,Household Goods,2026-02-27
+45,33,book,Sports,2026-01-21
+46,36,sofa,Sports,2026-05-22
+47,79,white socks,Clothing,2026-03-19
+48,83,sofa,Books,2026-05-09
+49,20,sofa,Sports,2026-05-29
+50,93,gaming laptop,Household Goods,2026-06-09
+51,6,shoes,Clothing,2026-05-25
+52,83,gaming laptop,Household Goods,2026-01-12
+53,27,gaming laptop,Furniture,2026-06-16
+54,82,shoes,Furniture,2026-06-08
+55,70,phone,Sports,2026-06-10
+56,62,book,Sports,2026-03-19
+57,39,bike,Clothing,2026-04-14
+58,8,sofa,Furniture,2026-06-26
+59,62,bike,Electronics,2026-04-17
+60,78,sofa,Household Goods,2026-03-29
+61,94,jacket,Furniture,2026-03-23
+62,98,jacket,Books,2026-02-03
+63,14,jacket,Electronics,2026-05-24
+64,16,phone,Furniture,2026-04-30
+65,19,laptop,Clothing,2026-03-05
+66,50,gaming laptop,Furniture,2026-03-16
+67,21,jacket,Books,2026-03-05
+68,25,sofa,Furniture,2026-03-22
+69,60,bike,Household Goods,2026-05-12
+70,3,laptop,Furniture,2026-05-08
+71,59,book,Electronics,2026-05-10
+72,46,shoes,Clothing,2026-05-30
+73,64,gaming laptop,Sports,2026-03-14
+74,61,phone,Books,2026-06-22
+75,14,table,Electronics,2026-01-03
+76,94,jacket,Furniture,2026-03-09
+77,6,table,Clothing,2026-04-04
+78,72,book,Household Goods,2026-05-26
+79,37,laptop,Furniture,2026-05-22
+80,58,white socks,Household Goods,2026-05-10
+81,88,gaming laptop,Clothing,2026-06-09
+82,13,table,Household Goods,2026-02-02
+83,72,jacket,Electronics,2026-03-28
+84,78,white socks,Furniture,2026-02-20
+85,6,shoes,Clothing,2026-05-09
+86,92,jacket,Furniture,2026-02-05
+87,59,sofa,Books,2026-05-13
+88,18,jacket,Books,2026-05-12
+89,21,table,Books,2026-03-23
+90,76,jacket,Books,2026-03-18
+91,69,bike,Sports,2026-05-11
+92,39,bike,Clothing,2026-05-25
+93,43,laptop,Furniture,2026-04-05
+94,40,shoes,Books,2026-05-30
+95,34,gaming laptop,Books,2026-05-02
+96,93,shoes,Books,2026-02-28
+97,22,white socks,Sports,2026-05-03
+98,100,table,Electronics,2026-06-08
+99,32,shoes,Books,2026-06-24
+100,15,book,Clothing,2026-06-29
+101,41,table,Electronics,2026-04-23
+102,89,book,Furniture,2026-04-16
+103,100,gaming laptop,Furniture,2026-05-09
+104,91,sofa,Books,2026-01-16
+105,72,jacket,Sports,2026-02-23
+106,68,table,Household Goods,2026-05-03
+107,59,white socks,Household Goods,2026-02-14
+108,46,phone,Books,2026-05-20
+109,25,book,Household Goods,2026-05-04
+110,39,book,Household Goods,2026-05-23
+111,91,book,Sports,2026-03-15
+112,63,jacket,Furniture,2026-06-30
+113,72,phone,Household Goods,2026-03-31
+114,74,white socks,Furniture,2026-02-01
+115,45,sofa,Household Goods,2026-04-12
+116,37,laptop,Household Goods,2026-01-11
+117,84,phone,Sports,2026-04-24
+118,28,book,Books,2026-05-03
+119,72,phone,Electronics,2026-03-11
+120,79,gaming laptop,Electronics,2026-01-28
+121,7,white socks,Electronics,2026-03-04
+122,30,shoes,Clothing,2026-06-13
+123,43,bike,Clothing,2026-04-16
+124,99,sofa,Clothing,2026-06-24
+125,21,table,Sports,2026-05-21
+126,62,book,Household Goods,2026-05-02
+127,37,shoes,Clothing,2026-03-24
+128,74,book,Books,2026-06-16
+129,23,table,Electronics,2026-01-10
+130,51,bike,Electronics,2026-01-10
+131,5,shoes,Household Goods,2026-03-16
+132,78,laptop,Household Goods,2026-05-26
+133,59,white socks,Books,2026-03-14
+134,18,white socks,Furniture,2026-05-07
+135,25,laptop,Household Goods,2026-03-11
+136,94,bike,Sports,2026-02-11
+137,92,sofa,Clothing,2026-03-07
+138,38,gaming laptop,Sports,2026-03-28
+139,23,gaming laptop,Sports,2026-02-19
+140,55,white socks,Household Goods,2026-04-14
+141,52,laptop,Electronics,2026-01-23
+142,62,jacket,Electronics,2026-02-05
+143,34,table,Electronics,2026-01-02
+144,97,phone,Household Goods,2026-04-25
+145,75,gaming laptop,Clothing,2026-03-19
+146,84,jacket,Sports,2026-03-08
+147,8,laptop,Furniture,2026-03-02
+148,21,table,Sports,2026-03-20
+149,91,phone,Sports,2026-05-09
+150,82,phone,Household Goods,2026-01-31
+151,29,book,Electronics,2026-06-07
+152,20,bike,Sports,2026-05-03
+153,48,table,Sports,2026-06-05
+154,61,white socks,Sports,2026-05-21
+155,98,book,Sports,2026-02-25
+156,11,white socks,Furniture,2026-06-02
+157,91,jacket,Clothing,2026-05-16
+158,15,shoes,Books,2026-05-25
+159,26,gaming laptop,Books,2026-05-10
+160,22,jacket,Books,2026-02-08
+161,15,book,Sports,2026-04-24
+162,63,laptop,Books,2026-05-30
+163,8,bike,Electronics,2026-04-25
+164,54,bike,Books,2026-05-12
+165,72,bike,Sports,2026-01-15
+166,93,shoes,Furniture,2026-03-20
+167,1,book,Books,2026-03-07
+168,6,table,Household Goods,2026-01-19
+169,9,white socks,Clothing,2026-06-29
+170,61,shoes,Household Goods,2026-01-18
+171,24,sofa,Sports,2026-04-15
+172,54,jacket,Furniture,2026-06-15
+173,49,table,Clothing,2026-04-25
+174,85,white socks,Electronics,2026-06-24
+175,45,laptop,Electronics,2026-06-17
+176,51,white socks,Electronics,2026-05-18
+177,1,shoes,Household Goods,2026-02-27
+178,87,white socks,Furniture,2026-04-29
+179,49,book,Electronics,2026-05-17
+180,45,sofa,Household Goods,2026-04-28
+181,93,laptop,Clothing,2026-02-18
+182,54,gaming laptop,Clothing,2026-06-19
+183,27,laptop,Clothing,2026-03-03
+184,5,bike,Books,2026-06-02
+185,91,shoes,Electronics,2026-06-22
+186,52,bike,Electronics,2026-01-12
+187,28,shoes,Electronics,2026-05-19
+188,38,book,Sports,2026-05-09
+189,41,gaming laptop,Books,2026-05-28
+190,42,book,Household Goods,2026-06-22
+191,85,white socks,Electronics,2026-02-06
+192,39,phone,Clothing,2026-04-16
+193,76,sofa,Sports,2026-05-23
+194,55,white socks,Furniture,2026-06-23
+195,45,table,Books,2026-01-13
+196,90,table,Furniture,2026-03-23
+197,39,table,Electronics,2026-02-08
+198,61,book,Electronics,2026-05-18
+199,91,sofa,Furniture,2026-03-18
+200,72,table,Furniture,2026-01-15
+201,68,sofa,Furniture,2026-05-23
+202,33,book,Household Goods,2026-03-04
+203,11,bike,Household Goods,2026-06-15
+204,69,book,Clothing,2026-01-24
+205,49,gaming laptop,Books,2026-03-10
+206,10,book,Books,2026-01-11
+207,72,book,Furniture,2026-06-21
+208,43,phone,Clothing,2026-02-23
+209,25,laptop,Sports,2026-02-24
+210,32,gaming laptop,Sports,2026-05-03
+211,51,book,Books,2026-02-22
+212,100,phone,Furniture,2026-03-24
+213,69,jacket,Household Goods,2026-04-30
+214,47,white socks,Furniture,2026-03-08
+215,13,bike,Household Goods,2026-04-30
+216,48,jacket,Furniture,2026-02-22
+217,73,book,Sports,2026-01-12
+218,3,phone,Books,2026-02-07
+219,75,table,Household Goods,2026-05-30
+220,26,jacket,Electronics,2026-02-09
+221,73,book,Furniture,2026-04-08
+222,84,jacket,Household Goods,2026-05-21
+223,93,bike,Furniture,2026-05-06
+224,94,jacket,Electronics,2026-02-13
+225,93,white socks,Furniture,2026-02-05
+226,70,shoes,Books,2026-02-17
+227,10,shoes,Clothing,2026-01-09
+228,18,book,Clothing,2026-04-16
+229,2,book,Books,2026-02-08
+230,48,shoes,Books,2026-04-27
+231,86,gaming laptop,Furniture,2026-06-13
+232,63,shoes,Clothing,2026-06-18
+233,71,table,Clothing,2026-05-17
+234,68,phone,Books,2026-01-05
+235,3,white socks,Sports,2026-03-15
+236,56,sofa,Clothing,2026-06-22
+237,68,sofa,Electronics,2026-01-25
+238,80,white socks,Household Goods,2026-02-19
+239,35,table,Clothing,2026-04-01
+240,52,bike,Books,2026-04-06
+241,90,book,Household Goods,2026-03-04
+242,11,shoes,Clothing,2026-06-25
+243,49,table,Books,2026-04-14
+244,8,shoes,Sports,2026-05-02
+245,11,bike,Furniture,2026-02-13
+246,43,gaming laptop,Clothing,2026-06-15
+247,6,book,Electronics,2026-05-16
+248,73,bike,Household Goods,2026-06-27
+249,10,phone,Books,2026-01-12
+250,85,shoes,Electronics,2026-05-25
+251,3,book,Books,2026-03-22
+252,97,table,Clothing,2026-02-06
+253,21,gaming laptop,Electronics,2026-03-18
+254,50,white socks,Household Goods,2026-05-26
+255,97,sofa,Sports,2026-04-09
+256,65,jacket,Clothing,2026-01-21
+257,56,book,Clothing,2026-01-26
+258,78,gaming laptop,Books,2026-03-29
+259,100,jacket,Clothing,2026-04-12
+260,35,bike,Furniture,2026-06-12
+261,46,white socks,Furniture,2026-02-28
+262,24,gaming laptop,Sports,2026-04-21
+263,11,gaming laptop,Household Goods,2026-04-08
+264,92,laptop,Clothing,2026-03-05
+265,20,table,Sports,2026-03-10
+266,20,table,Household Goods,2026-06-12
+267,14,laptop,Clothing,2026-04-03
+268,57,jacket,Household Goods,2026-03-20
+269,17,laptop,Electronics,2026-01-27
+270,58,white socks,Books,2026-04-21
+271,53,laptop,Clothing,2026-05-12
+272,46,white socks,Clothing,2026-01-23
+273,77,jacket,Furniture,2026-06-02
+274,38,table,Furniture,2026-01-04
+275,93,white socks,Electronics,2026-01-22
+276,67,sofa,Sports,2026-05-27
+277,22,sofa,Household Goods,2026-04-08
+278,35,bike,Electronics,2026-03-19
+279,22,table,Household Goods,2026-01-17
+280,39,bike,Clothing,2026-04-18
+281,33,book,Sports,2026-04-03
+282,64,gaming laptop,Books,2026-06-10
+283,59,laptop,Electronics,2026-02-20
+284,1,table,Household Goods,2026-03-19
+285,49,jacket,Furniture,2026-06-08
+286,56,gaming laptop,Electronics,2026-03-27
+287,42,gaming laptop,Sports,2026-03-18
+288,62,jacket,Electronics,2026-02-21
+289,41,phone,Sports,2026-04-12
+290,82,bike,Books,2026-06-27
+291,42,table,Household Goods,2026-03-04
+292,47,laptop,Books,2026-04-11
+293,76,white socks,Electronics,2026-02-21
+294,99,white socks,Clothing,2026-06-24
+295,91,book,Furniture,2026-04-29
+296,89,laptop,Furniture,2026-03-16
+297,64,sofa,Sports,2026-06-22
+298,31,phone,Sports,2026-03-19
+299,92,table,Furniture,2026-02-09
+300,58,gaming laptop,Furniture,2026-01-19
+301,52,white socks,Books,2026-05-30
+302,54,white socks,Clothing,2026-06-27
+303,90,white socks,Books,2026-04-03
+304,11,laptop,Electronics,2026-06-13
+305,86,jacket,Electronics,2026-06-18
+306,79,shoes,Books,2026-06-15
+307,87,table,Household Goods,2026-06-15
+308,14,shoes,Clothing,2026-04-21
+309,29,white socks,Sports,2026-03-08
+310,72,gaming laptop,Sports,2026-05-13
+311,29,bike,Household Goods,2026-05-28
+312,60,gaming laptop,Sports,2026-04-11
+313,20,jacket,Clothing,2026-05-09
+314,14,phone,Furniture,2026-05-04
+315,15,sofa,Household Goods,2026-01-22
+316,44,bike,Electronics,2026-03-21
+317,62,jacket,Furniture,2026-05-14
+318,57,bike,Household Goods,2026-01-25
+319,39,shoes,Sports,2026-01-18
+320,3,jacket,Sports,2026-01-30
+321,87,sofa,Sports,2026-01-28
+322,67,sofa,Books,2026-03-04
+323,43,white socks,Furniture,2026-02-10
+324,30,table,Sports,2026-04-29
+325,24,table,Furniture,2026-02-17
+326,95,gaming laptop,Electronics,2026-01-08
+327,76,table,Furniture,2026-04-26
+328,91,book,Electronics,2026-01-02
+329,97,laptop,Books,2026-03-13
+330,69,sofa,Household Goods,2026-01-27
+331,26,bike,Clothing,2026-03-25
+332,86,bike,Books,2026-03-09
+333,41,gaming laptop,Furniture,2026-06-13
+334,51,gaming laptop,Clothing,2026-06-06
+335,46,bike,Books,2026-03-31
+336,87,phone,Books,2026-02-14
+337,11,sofa,Household Goods,2026-06-01
+338,31,phone,Clothing,2026-01-31
+339,48,sofa,Books,2026-02-16
+340,54,gaming laptop,Electronics,2026-04-10
+341,50,table,Electronics,2026-05-28
+342,82,white socks,Sports,2026-05-05
+343,23,white socks,Electronics,2026-06-15
+344,37,sofa,Electronics,2026-05-06
+345,58,gaming laptop,Clothing,2026-03-22
+346,2,bike,Electronics,2026-04-02
+347,50,white socks,Books,2026-02-19
+348,64,table,Sports,2026-06-17
+349,54,bike,Furniture,2026-05-06
+350,11,gaming laptop,Clothing,2026-02-12
+351,38,shoes,Household Goods,2026-02-26
+352,69,phone,Electronics,2026-02-27
+353,73,bike,Books,2026-04-28
+354,15,gaming laptop,Clothing,2026-05-11
+355,100,white socks,Household Goods,2026-03-10
+356,97,shoes,Sports,2026-05-19
+357,70,book,Furniture,2026-04-23
+358,95,book,Household Goods,2026-01-27
+359,58,phone,Household Goods,2026-01-09
+360,57,laptop,Electronics,2026-01-23
+361,95,gaming laptop,Sports,2026-02-23
+362,91,gaming laptop,Sports,2026-03-31
+363,22,gaming laptop,Electronics,2026-04-20
+364,27,shoes,Books,2026-02-22
+365,69,phone,Books,2026-03-31
+366,22,jacket,Sports,2026-05-18
+367,38,gaming laptop,Household Goods,2026-03-16
+368,87,laptop,Electronics,2026-05-12
+369,8,phone,Sports,2026-04-16
+370,90,sofa,Electronics,2026-02-02
+371,92,jacket,Electronics,2026-02-07
+372,51,bike,Electronics,2026-06-23
+373,81,phone,Sports,2026-05-28
+374,49,bike,Clothing,2026-04-17
+375,99,laptop,Furniture,2026-06-12
+376,96,phone,Sports,2026-05-12
+377,59,bike,Household Goods,2026-04-05
+378,1,laptop,Sports,2026-05-29
+379,82,jacket,Clothing,2026-04-28
+380,51,book,Furniture,2026-05-17
+381,64,phone,Household Goods,2026-02-24
+382,44,white socks,Books,2026-03-14
+383,73,bike,Household Goods,2026-02-03
+384,98,shoes,Clothing,2026-06-24
+385,81,bike,Clothing,2026-01-26
+386,21,bike,Furniture,2026-02-01
+387,55,book,Sports,2026-01-01
+388,84,phone,Electronics,2026-02-03
+389,12,jacket,Household Goods,2026-03-12
+390,48,sofa,Clothing,2026-01-22
+391,81,phone,Sports,2026-04-12
+392,97,book,Furniture,2026-06-29
+393,12,laptop,Clothing,2026-06-17
+394,62,laptop,Electronics,2026-02-24
+395,29,white socks,Sports,2026-06-01
+396,2,shoes,Sports,2026-04-24
+397,16,table,Sports,2026-03-29
+398,62,laptop,Electronics,2026-02-03
+399,12,laptop,Clothing,2026-04-09
+400,48,phone,Electronics,2026-03-22
+401,100,sofa,Sports,2026-04-08
+402,19,laptop,Books,2026-06-23
+403,2,gaming laptop,Sports,2026-05-25
+404,57,jacket,Sports,2026-02-12
+405,81,sofa,Furniture,2026-02-24
+406,88,bike,Electronics,2026-06-07
+407,13,sofa,Clothing,2026-01-23
+408,94,table,Household Goods,2026-05-31
+409,41,sofa,Electronics,2026-04-20
+410,83,laptop,Electronics,2026-03-12
+411,77,gaming laptop,Sports,2026-05-22
+412,37,shoes,Sports,2026-06-05
+413,27,white socks,Books,2026-03-19
+414,25,table,Household Goods,2026-05-11
+415,7,book,Furniture,2026-06-15
+416,15,book,Furniture,2026-04-09
+417,77,laptop,Books,2026-06-13
+418,47,jacket,Electronics,2026-01-04
+419,73,table,Household Goods,2026-04-10
+420,88,sofa,Furniture,2026-05-20
+421,3,gaming laptop,Clothing,2026-01-19
+422,34,book,Clothing,2026-01-04
+423,51,white socks,Household Goods,2026-01-16
+424,92,white socks,Furniture,2026-06-10
+425,90,table,Clothing,2026-04-19
+426,69,white socks,Books,2026-06-13
+427,36,laptop,Household Goods,2026-02-09
+428,66,book,Electronics,2026-01-21
+429,42,table,Books,2026-05-18
+430,98,laptop,Household Goods,2026-06-12
+431,56,book,Clothing,2026-06-28
+432,12,table,Clothing,2026-03-04
+433,79,gaming laptop,Clothing,2026-04-27
+434,86,sofa,Clothing,2026-03-21
+435,91,sofa,Sports,2026-01-04
+436,21,bike,Household Goods,2026-01-03
+437,67,phone,Electronics,2026-05-14
+438,17,phone,Sports,2026-04-06
+439,99,shoes,Household Goods,2026-01-31
+440,35,white socks,Clothing,2026-04-20
+441,92,gaming laptop,Sports,2026-03-09
+442,64,bike,Books,2026-01-20
+443,8,bike,Books,2026-04-03
+444,48,sofa,Household Goods,2026-02-12
+445,74,laptop,Electronics,2026-01-27
+446,1,shoes,Clothing,2026-05-11
+447,6,bike,Household Goods,2026-03-04
+448,20,sofa,Clothing,2026-04-09
+449,92,table,Electronics,2026-05-22
+450,32,table,Sports,2026-03-24
+451,35,laptop,Books,2026-03-23
+452,16,white socks,Sports,2026-04-06
+453,23,book,Books,2026-01-14
+454,52,laptop,Furniture,2026-01-12
+455,100,phone,Household Goods,2026-03-14
+456,71,bike,Clothing,2026-01-23
+457,26,phone,Books,2026-04-05
+458,95,gaming laptop,Electronics,2026-03-19
+459,48,gaming laptop,Furniture,2026-04-29
+460,94,white socks,Electronics,2026-02-20
+461,1,table,Clothing,2026-02-08
+462,70,jacket,Sports,2026-03-01
+463,2,jacket,Clothing,2026-06-27
+464,49,phone,Clothing,2026-06-18
+465,68,book,Furniture,2026-02-22
+466,8,sofa,Sports,2026-05-06
+467,12,shoes,Electronics,2026-03-13
+468,53,jacket,Furniture,2026-05-14
+469,75,laptop,Books,2026-01-22
+470,82,table,Clothing,2026-02-04
+471,73,shoes,Furniture,2026-06-01
+472,17,book,Household Goods,2026-06-19
+473,41,table,Sports,2026-03-08
+474,41,bike,Household Goods,2026-03-25
+475,10,book,Electronics,2026-03-01
+476,14,sofa,Clothing,2026-05-30
+477,58,bike,Household Goods,2026-02-12
+478,16,white socks,Household Goods,2026-04-15
+479,58,phone,Furniture,2026-02-23
+480,16,laptop,Electronics,2026-03-09
+481,39,gaming laptop,Clothing,2026-06-25
+482,42,sofa,Clothing,2026-02-25
+483,46,table,Books,2026-03-05
+484,87,phone,Household Goods,2026-01-13
+485,4,table,Furniture,2026-02-14
+486,96,white socks,Electronics,2026-05-23
+487,60,laptop,Electronics,2026-01-25
+488,2,shoes,Electronics,2026-02-01
+489,26,table,Household Goods,2026-02-03
+490,81,laptop,Books,2026-06-25
+491,34,laptop,Clothing,2026-05-31
+492,26,bike,Electronics,2026-01-17
+493,43,laptop,Clothing,2026-01-24
+494,7,sofa,Books,2026-04-29
+495,93,table,Furniture,2026-04-21
+496,49,table,Electronics,2026-01-08
+497,28,sofa,Household Goods,2026-04-01
+498,58,sofa,Clothing,2026-03-13
+499,80,gaming laptop,Electronics,2026-06-07
+500,38,bike,Furniture,2026-06-15

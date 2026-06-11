@@ -1,0 +1,301 @@
+listing_id,seller_id,item_category,listing_created_date,listing_status,deleted_date,price
+1,52,Furniture,2026-04-06,active,,470
+2,16,Electronics,2026-03-05,sold,,42
+3,30,Electronics,2026-05-31,sold,,13
+4,30,Clothing,2026-01-18,sold,,450
+5,36,Electronics,2026-05-05,sold,,286
+6,74,Electronics,2026-05-02,active,,411
+7,53,Clothing,2026-02-18,active,,59
+8,46,Furniture,2026-04-19,deleted,2026-04-21,249
+9,87,Clothing,2026-01-26,active,,216
+10,14,Electronics,2026-03-05,active,,107
+11,18,Electronics,2026-04-19,active,,152
+12,10,Books,2026-04-24,sold,,60
+13,12,Electronics,2026-03-02,active,,218
+14,28,Clothing,2026-04-13,sold,,94
+15,59,Furniture,2026-03-15,deleted,2026-04-02,366
+16,85,Electronics,2026-05-05,sold,,107
+17,95,Clothing,2026-05-19,sold,,392
+18,62,Books,2026-05-09,sold,,90
+19,24,Books,2026-01-18,active,,44
+20,31,Clothing,2026-04-14,deleted,2026-04-22,492
+21,75,Books,2026-01-11,sold,,51
+22,67,Household Goods,2026-03-22,active,,114
+23,41,Household Goods,2026-03-03,sold,,212
+24,59,Clothing,2026-03-22,active,,14
+25,73,Clothing,2026-01-26,sold,,285
+26,45,Electronics,2026-01-18,sold,,199
+27,91,Books,2026-03-19,active,,423
+28,2,Household Goods,2026-05-22,active,,487
+29,18,Clothing,2026-03-09,sold,,465
+30,35,Books,2026-03-14,active,,117
+31,27,Books,2026-03-09,sold,,260
+32,12,Household Goods,2026-04-19,sold,,32
+33,82,Electronics,2026-03-09,sold,,389
+34,72,Clothing,2026-01-03,deleted,2026-01-08,48
+35,70,Household Goods,2026-01-10,active,,308
+36,56,Clothing,2026-02-02,sold,,167
+37,46,Sports,2026-02-23,active,,137
+38,46,Furniture,2026-05-24,active,,327
+39,31,Electronics,2026-02-11,sold,,461
+40,43,Sports,2026-04-16,active,,452
+41,32,Electronics,2026-03-10,active,,413
+42,49,Furniture,2026-01-10,sold,,123
+43,45,Electronics,2026-03-20,sold,,124
+44,43,Clothing,2026-03-13,sold,,405
+45,52,Household Goods,2026-05-18,sold,,490
+46,23,Household Goods,2026-05-29,sold,,29
+47,94,Furniture,2026-03-22,deleted,2026-03-26,320
+48,50,Electronics,2026-05-28,sold,,140
+49,67,Sports,2026-05-18,deleted,2026-05-25,378
+50,47,Clothing,2026-04-21,active,,495
+51,43,Sports,2026-03-22,sold,,444
+52,65,Sports,2026-03-21,sold,,219
+53,71,Electronics,2026-02-02,active,,225
+54,49,Books,2026-02-14,sold,,301
+55,39,Electronics,2026-03-15,active,,230
+56,78,Furniture,2026-03-24,sold,,236
+57,61,Sports,2026-02-13,sold,,53
+58,80,Clothing,2026-03-27,deleted,2026-04-04,429
+59,87,Electronics,2026-03-21,sold,,422
+60,32,Books,2026-05-02,active,,445
+61,59,Sports,2026-04-17,sold,,304
+62,64,Electronics,2026-04-13,active,,85
+63,1,Furniture,2026-01-28,sold,,122
+64,60,Books,2026-01-13,deleted,2026-01-17,137
+65,59,Furniture,2026-02-04,active,,351
+66,72,Furniture,2026-03-23,deleted,2026-04-09,323
+67,55,Furniture,2026-05-21,sold,,469
+68,58,Electronics,2026-03-08,active,,440
+69,99,Furniture,2026-05-14,sold,,330
+70,92,Electronics,2026-03-15,sold,,149
+71,11,Electronics,2026-02-05,sold,,128
+72,28,Furniture,2026-01-17,sold,,218
+73,8,Furniture,2026-02-22,deleted,2026-03-13,209
+74,90,Books,2026-01-06,active,,204
+75,46,Furniture,2026-03-18,deleted,2026-04-01,446
+76,69,Books,2026-05-20,sold,,469
+77,56,Clothing,2026-05-05,sold,,209
+78,93,Furniture,2026-02-12,sold,,480
+79,4,Books,2026-04-11,active,,298
+80,11,Electronics,2026-04-20,active,,453
+81,7,Furniture,2026-03-08,sold,,177
+82,98,Household Goods,2026-04-08,deleted,2026-04-22,395
+83,33,Furniture,2026-01-21,active,,19
+84,7,Electronics,2026-03-31,sold,,342
+85,97,Electronics,2026-01-08,deleted,2026-01-28,112
+86,20,Electronics,2026-03-03,active,,252
+87,73,Furniture,2026-02-25,sold,,368
+88,78,Electronics,2026-01-30,sold,,169
+89,74,Furniture,2026-04-07,active,,492
+90,10,Clothing,2026-03-04,active,,366
+91,88,Books,2026-01-31,sold,,410
+92,85,Clothing,2026-04-05,active,,269
+93,2,Furniture,2026-04-18,sold,,64
+94,59,Furniture,2026-02-09,active,,100
+95,84,Books,2026-03-11,deleted,2026-03-27,423
+96,60,Sports,2026-04-22,sold,,313
+97,12,Furniture,2026-03-13,active,,134
+98,73,Household Goods,2026-04-08,active,,24
+99,42,Furniture,2026-02-16,sold,,118
+100,36,Books,2026-03-12,active,,15
+101,25,Electronics,2026-01-22,sold,,378
+102,31,Sports,2026-05-02,active,,374
+103,3,Household Goods,2026-01-24,sold,,123
+104,85,Household Goods,2026-05-29,active,,252
+105,45,Sports,2026-04-19,sold,,291
+106,35,Household Goods,2026-03-20,sold,,128
+107,16,Sports,2026-05-18,sold,,104
+108,36,Books,2026-05-31,sold,,315
+109,38,Household Goods,2026-02-28,sold,,101
+110,17,Clothing,2026-03-12,active,,37
+111,90,Sports,2026-02-02,active,,454
+112,14,Books,2026-01-04,active,,155
+113,57,Electronics,2026-03-29,sold,,36
+114,15,Furniture,2026-01-17,sold,,261
+115,7,Electronics,2026-02-08,active,,425
+116,39,Electronics,2026-01-22,active,,70
+117,54,Books,2026-02-27,active,,204
+118,57,Books,2026-03-18,sold,,229
+119,79,Electronics,2026-01-26,sold,,330
+120,21,Electronics,2026-03-03,sold,,292
+121,58,Household Goods,2026-05-01,sold,,26
+122,90,Clothing,2026-04-27,sold,,361
+123,76,Furniture,2026-02-20,active,,68
+124,83,Household Goods,2026-02-08,sold,,433
+125,40,Household Goods,2026-05-26,sold,,234
+126,90,Household Goods,2026-04-14,active,,266
+127,57,Books,2026-01-21,deleted,2026-02-01,30
+128,78,Clothing,2026-03-06,sold,,56
+129,76,Sports,2026-01-06,sold,,430
+130,97,Furniture,2026-02-14,active,,275
+131,36,Books,2026-02-16,active,,233
+132,63,Furniture,2026-01-24,sold,,188
+133,14,Household Goods,2026-02-11,active,,220
+134,37,Books,2026-04-13,active,,28
+135,41,Household Goods,2026-03-06,deleted,2026-03-19,69
+136,66,Sports,2026-01-01,active,,455
+137,53,Electronics,2026-01-14,sold,,275
+138,81,Clothing,2026-04-24,sold,,114
+139,57,Clothing,2026-05-05,deleted,2026-05-25,24
+140,31,Household Goods,2026-02-10,sold,,292
+141,29,Furniture,2026-01-30,sold,,494
+142,64,Books,2026-03-16,sold,,371
+143,61,Furniture,2026-03-04,sold,,292
+144,66,Clothing,2026-02-04,active,,151
+145,54,Books,2026-03-29,deleted,2026-04-08,146
+146,93,Books,2026-03-18,deleted,2026-04-03,306
+147,20,Books,2026-04-25,sold,,257
+148,70,Furniture,2026-04-07,sold,,487
+149,31,Furniture,2026-05-27,deleted,2026-06-10,129
+150,6,Sports,2026-03-23,active,,252
+151,49,Sports,2026-04-09,deleted,2026-04-14,415
+152,64,Electronics,2026-01-10,deleted,2026-01-21,267
+153,13,Clothing,2026-04-23,deleted,2026-04-24,279
+154,93,Furniture,2026-02-06,active,,455
+155,20,Furniture,2026-01-20,deleted,2026-01-31,410
+156,80,Sports,2026-04-12,deleted,2026-04-30,51
+157,49,Sports,2026-03-23,deleted,2026-04-08,377
+158,70,Books,2026-01-10,sold,,45
+159,30,Furniture,2026-01-24,active,,60
+160,91,Furniture,2026-01-26,active,,95
+161,4,Household Goods,2026-01-12,sold,,417
+162,56,Electronics,2026-02-07,sold,,281
+163,22,Clothing,2026-02-14,deleted,2026-03-06,322
+164,88,Furniture,2026-03-03,active,,477
+165,30,Sports,2026-04-29,active,,140
+166,86,Furniture,2026-01-03,sold,,471
+167,10,Household Goods,2026-04-24,sold,,310
+168,33,Household Goods,2026-04-27,deleted,2026-05-13,111
+169,14,Furniture,2026-03-02,sold,,302
+170,38,Sports,2026-01-06,sold,,212
+171,100,Books,2026-01-13,active,,391
+172,37,Books,2026-02-28,sold,,420
+173,80,Sports,2026-03-06,active,,396
+174,85,Sports,2026-02-05,deleted,2026-02-07,59
+175,40,Clothing,2026-04-23,sold,,306
+176,38,Sports,2026-03-25,sold,,222
+177,47,Books,2026-05-16,sold,,477
+178,62,Sports,2026-03-17,sold,,455
+179,10,Electronics,2026-02-06,active,,450
+180,87,Books,2026-04-12,sold,,197
+181,34,Clothing,2026-05-18,sold,,242
+182,34,Furniture,2026-05-30,active,,431
+183,48,Sports,2026-01-28,active,,129
+184,80,Household Goods,2026-05-24,active,,478
+185,83,Sports,2026-01-17,active,,431
+186,90,Sports,2026-03-19,sold,,219
+187,39,Clothing,2026-05-07,sold,,59
+188,50,Household Goods,2026-04-27,deleted,2026-05-15,353
+189,54,Sports,2026-05-31,sold,,382
+190,13,Books,2026-05-06,deleted,2026-05-15,218
+191,5,Electronics,2026-04-05,sold,,237
+192,13,Books,2026-04-05,deleted,2026-04-17,471
+193,8,Household Goods,2026-04-12,deleted,2026-04-27,107
+194,12,Sports,2026-02-24,active,,337
+195,3,Household Goods,2026-01-13,deleted,2026-02-01,134
+196,27,Books,2026-01-18,active,,116
+197,30,Electronics,2026-03-26,deleted,2026-03-27,413
+198,36,Electronics,2026-02-07,sold,,286
+199,85,Electronics,2026-01-07,sold,,17
+200,76,Clothing,2026-03-24,sold,,99
+201,54,Clothing,2026-05-15,sold,,391
+202,47,Books,2026-05-12,active,,65
+203,29,Sports,2026-01-12,deleted,2026-01-29,411
+204,39,Sports,2026-04-28,sold,,25
+205,55,Furniture,2026-01-28,deleted,2026-01-31,374
+206,11,Books,2026-03-24,sold,,85
+207,82,Books,2026-05-30,sold,,374
+208,38,Books,2026-04-27,sold,,319
+209,15,Sports,2026-05-22,sold,,453
+210,53,Furniture,2026-03-28,sold,,214
+211,55,Sports,2026-03-22,sold,,140
+212,61,Clothing,2026-01-18,sold,,435
+213,96,Electronics,2026-04-06,sold,,294
+214,43,Furniture,2026-02-01,deleted,2026-02-15,191
+215,93,Household Goods,2026-01-14,sold,,317
+216,65,Electronics,2026-02-24,active,,346
+217,14,Books,2026-03-31,sold,,198
+218,29,Books,2026-04-20,deleted,2026-05-10,402
+219,87,Clothing,2026-05-23,deleted,2026-06-01,321
+220,4,Household Goods,2026-02-16,active,,369
+221,44,Clothing,2026-03-31,deleted,2026-04-19,102
+222,85,Clothing,2026-04-13,active,,82
+223,4,Sports,2026-01-24,sold,,281
+224,44,Household Goods,2026-02-10,active,,169
+225,100,Books,2026-05-26,deleted,2026-05-31,53
+226,21,Sports,2026-01-13,sold,,51
+227,63,Furniture,2026-04-24,sold,,149
+228,45,Clothing,2026-04-21,active,,155
+229,76,Books,2026-05-05,sold,,351
+230,77,Clothing,2026-01-15,sold,,114
+231,18,Household Goods,2026-03-07,sold,,177
+232,56,Electronics,2026-02-14,active,,204
+233,30,Books,2026-05-09,active,,436
+234,46,Furniture,2026-01-19,active,,451
+235,56,Furniture,2026-01-05,sold,,481
+236,55,Furniture,2026-05-27,active,,373
+237,38,Furniture,2026-01-30,deleted,2026-02-05,20
+238,80,Sports,2026-04-28,sold,,480
+239,32,Books,2026-04-22,active,,215
+240,51,Sports,2026-03-21,sold,,183
+241,10,Sports,2026-05-11,active,,68
+242,25,Household Goods,2026-03-31,deleted,2026-04-05,382
+243,31,Electronics,2026-01-27,sold,,141
+244,98,Electronics,2026-01-20,active,,497
+245,64,Books,2026-04-29,active,,399
+246,88,Sports,2026-05-25,deleted,2026-06-05,335
+247,81,Electronics,2026-03-22,sold,,235
+248,39,Books,2026-03-12,sold,,38
+249,60,Clothing,2026-04-26,sold,,39
+250,83,Books,2026-01-24,active,,314
+251,60,Books,2026-05-29,active,,498
+252,6,Books,2026-04-26,sold,,343
+253,65,Clothing,2026-02-08,sold,,240
+254,92,Books,2026-01-22,sold,,340
+255,57,Books,2026-04-23,active,,277
+256,47,Household Goods,2026-04-06,sold,,208
+257,77,Sports,2026-01-14,sold,,341
+258,72,Household Goods,2026-04-09,active,,139
+259,85,Household Goods,2026-02-08,active,,51
+260,19,Household Goods,2026-03-31,active,,345
+261,51,Books,2026-02-03,deleted,2026-02-13,372
+262,72,Sports,2026-04-07,sold,,415
+263,90,Clothing,2026-05-15,active,,340
+264,66,Clothing,2026-04-03,sold,,195
+265,99,Electronics,2026-05-05,deleted,2026-05-10,125
+266,10,Clothing,2026-03-17,active,,269
+267,95,Clothing,2026-05-15,sold,,348
+268,17,Electronics,2026-04-07,sold,,93
+269,80,Sports,2026-02-12,sold,,234
+270,93,Furniture,2026-03-02,sold,,322
+271,30,Electronics,2026-05-17,deleted,2026-06-02,168
+272,25,Sports,2026-04-05,active,,494
+273,57,Household Goods,2026-04-29,sold,,408
+274,21,Books,2026-02-21,deleted,2026-02-23,80
+275,83,Household Goods,2026-05-04,deleted,2026-05-21,293
+276,16,Clothing,2026-03-14,sold,,400
+277,19,Clothing,2026-04-22,deleted,2026-05-07,494
+278,45,Furniture,2026-01-07,sold,,37
+279,50,Household Goods,2026-01-21,sold,,124
+280,92,Electronics,2026-03-27,sold,,80
+281,90,Sports,2026-02-05,sold,,250
+282,3,Electronics,2026-03-07,sold,,437
+283,68,Clothing,2026-04-19,sold,,407
+284,7,Furniture,2026-03-03,active,,337
+285,59,Clothing,2026-01-17,deleted,2026-02-06,438
+286,69,Sports,2026-01-05,active,,273
+287,92,Household Goods,2026-02-06,sold,,229
+288,74,Electronics,2026-04-17,active,,350
+289,68,Clothing,2026-04-03,active,,498
+290,65,Books,2026-05-10,sold,,20
+291,82,Household Goods,2026-04-10,active,,139
+292,46,Household Goods,2026-01-18,active,,133
+293,81,Books,2026-01-27,active,,386
+294,18,Household Goods,2026-01-12,sold,,289
+295,100,Sports,2026-04-29,active,,255
+296,18,Sports,2026-01-17,deleted,2026-01-19,407
+297,38,Clothing,2026-02-21,sold,,415
+298,40,Furniture,2026-05-12,active,,427
+299,33,Sports,2026-01-10,sold,,107
+300,7,Household Goods,2026-03-26,active,,73

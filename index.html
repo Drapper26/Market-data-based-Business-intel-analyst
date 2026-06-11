@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MarkIt BI Dashboard Project | Archit Yadav</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <nav>
+      <div class="logo">MarkIt BI Project</div>
+      <div class="nav-links">
+        <a href="#overview">Overview</a>
+        <a href="#dashboard">Dashboard</a>
+        <a href="#sql">SQL</a>
+        <a href="#insights">Insights</a>
+      </div>
+    </nav>
+
+    <section class="hero-content">
+      <p class="tag">Business Intelligence Portfolio Project</p>
+      <h1>Marketplace Analytics Dashboard</h1>
+      <p class="subtitle">
+        An end-to-end BI project analyzing buyer behavior, seller activity,
+        listing performance, completed sales, deleted listings, and search behavior
+        for a fictional consumer-to-consumer marketplace platform.
+      </p>
+      <div class="buttons">
+        <a href="#dashboard" class="btn primary">View Dashboard Plan</a>
+        <a href="#sql" class="btn secondary">View SQL Analysis</a>
+      </div>
+    </section>
+  </header>
+
+  <main>
+    <section id="overview" class="section">
+      <h2>Project Overview</h2>
+      <p>
+        MarkIt is a fictional online marketplace where users buy and sell previously owned items.
+        The goal of this project is to demonstrate the complete Business Intelligence lifecycle:
+        stakeholder requirements, project planning, strategy documentation, SQL analysis, KPI design,
+        dashboard planning, and business recommendations.
+      </p>
+
+      <div class="grid three">
+        <div class="card">
+          <h3>Business Problem</h3>
+          <p>Understand how buyers and sellers use the platform and identify what drives successful sales.</p>
+        </div>
+        <div class="card">
+          <h3>BI Objective</h3>
+          <p>Create a dashboard that tracks listings, sales, deleted listings, searches, and user behavior.</p>
+        </div>
+        <div class="card">
+          <h3>Outcome</h3>
+          <p>Support product, sales, and platform decisions using measurable KPIs and actionable insights.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section dark">
+      <h2>Key KPIs</h2>
+      <div class="kpi-grid">
+        <div class="kpi"><span>300</span><p>Listings Created</p></div>
+        <div class="kpi"><span>134</span><p>Completed Sales</p></div>
+        <div class="kpi"><span>62</span><p>Deleted Listings</p></div>
+        <div class="kpi"><span>26.8%</span><p>Search-to-Sale Ratio</p></div>
+      </div>
+    </section>
+
+    <section id="dashboard" class="section">
+      <h2>Dashboard Design</h2>
+      <p>
+        The dashboard is structured around executive KPIs, sales and listing trends,
+        buyer search behavior, seller behavior, and user engagement.
+      </p>
+
+      <div class="dashboard-mockup">
+        <div class="mock-header">Executive Summary</div>
+        <div class="mock-kpis">
+          <div>Total Listings</div>
+          <div>Total Sales</div>
+          <div>Deleted Listings</div>
+          <div>Search-to-Sale</div>
+        </div>
+        <div class="mock-body">
+          <div class="chart">Listings & Sales Over Time</div>
+          <div class="chart">Category Performance</div>
+          <div class="chart">Searches vs Purchases</div>
+          <div class="chart">Average Days to Sale</div>
+        </div>
+      </div>
+
+      <div class="grid two">
+        <div class="card">
+          <h3>Dashboard Pages</h3>
+          <ul>
+            <li>Executive Summary</li>
+            <li>Sales & Listing Trends</li>
+            <li>Buyer Search Behavior</li>
+            <li>Seller Behavior</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Filters</h3>
+          <ul>
+            <li>Date</li>
+            <li>Item Category</li>
+            <li>User Type</li>
+            <li>Listing Status</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="sql" class="section dark">
+      <h2>SQL Analysis</h2>
+      <p>The analysis uses SQL to measure marketplace performance and prepare data for dashboard reporting.</p>
+
+      <pre><code>SELECT
+    sale_date,
+    COUNT(*) AS completed_sales,
+    SUM(sale_amount) AS total_revenue
+FROM sales
+GROUP BY sale_date
+ORDER BY sale_date;</code></pre>
+
+      <div class="grid three">
+        <div class="card light">
+          <h3>Listings Analysis</h3>
+          <p>Tracks listings posted, deleted, and sold over time.</p>
+        </div>
+        <div class="card light">
+          <h3>Sales Analysis</h3>
+          <p>Measures completed sales, revenue, and category performance.</p>
+        </div>
+        <div class="card light">
+          <h3>Search Analysis</h3>
+          <p>Connects buyer search behavior with purchase completion.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="insights" class="section">
+      <h2>Business Insights</h2>
+      <div class="grid two">
+        <div class="card">
+          <h3>Key Findings</h3>
+          <ul>
+            <li>Search behavior can indicate buyer purchase intent.</li>
+            <li>Deleted listings may reveal seller pain points.</li>
+            <li>Listing duration helps identify demand and pricing issues.</li>
+            <li>Category-level performance can guide marketing and product decisions.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Recommendations</h3>
+          <ul>
+            <li>Improve search functionality for broad search terms.</li>
+            <li>Monitor high-deletion categories for seller friction.</li>
+            <li>Promote categories with faster sales cycles.</li>
+            <li>Track search-to-sale ratio as a monthly business KPI.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Skills Demonstrated</h2>
+      <div class="skills">
+        <span>SQL</span>
+        <span>Business Intelligence</span>
+        <span>KPI Design</span>
+        <span>Dashboard Planning</span>
+        <span>Data Modeling</span>
+        <span>Stakeholder Requirements</span>
+        <span>Business Analytics</span>
+        <span>Data Storytelling</span>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Built by Archit Yadav | Data Intelligence Analyst Portfolio Project</p>
+  </footer>
+</body>
+</html>
